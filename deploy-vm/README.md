@@ -6,8 +6,8 @@ A simple startup script to run code-server with --link on a VM, designed to run 
 
 ## In this repo
 
-- [launch-code-server.sh](./launch-code-server.sh) - Command tested on Ubuntu machines (uses --link)
-- [launch-linode.sh](./launch-linode.sh) - launch-code-server.sh adapted for Linode
+- [launch-code-server.sh](./link/launch-code-server.sh) - Command tested on Ubuntu machines (uses --link)
+- [launch-linode.sh](./link/launch-linode.sh) - launch-code-server.sh adapted for Linode
 
 ## Troubleshooting
 

@@ -14,7 +14,7 @@
 
 4. Click `Next: Configure Instance Details` to add the code-server script.
 
-5. Under `User data`, copy & paste the [launch-code-server.sh](../deploy-vm/launch-code-server.sh) script.
+5. Under `User data`, copy & paste the [launch-code-server.sh](../deploy-vm/link/launch-code-server.sh) script.
 
 6. Expand your storage, if necessary under the "Add Storage" section.
 
