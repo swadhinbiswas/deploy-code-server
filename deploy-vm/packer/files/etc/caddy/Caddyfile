@@ -1,5 +1,5 @@
 https:// {
-    reverse_proxy code-server:8080
+    reverse_proxy 127.0.0.1:8080
     tls {
         issuer acme {
           email your-email@domain.com
